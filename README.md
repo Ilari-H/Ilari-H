@@ -3,7 +3,7 @@
   
 - My Intrests are Playing games and bouldering
 
-- Im currently learning C# /.net
+- Im currently learning C#
 
 
 <!---
