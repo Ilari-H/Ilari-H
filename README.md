@@ -1,9 +1,9 @@
 - Hello 👋
   My name is Ilari and im from Finland and studying C# at Gradia Viitaniemi.
   
-- My Intrests are Playing games and bouldering
+- My Intrests are playing games and bouldering
 
-- Im currently learning C#
+- Im currently learning C#/javascript/python
 
 
 <!---
