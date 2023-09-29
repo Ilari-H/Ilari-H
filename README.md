@@ -3,7 +3,7 @@
   
 - My Intrests are video games and bouldering
 
-- Im currently learning C#/javascript/python
+- Im currently learning javascript/react native
 
 
 <!---
